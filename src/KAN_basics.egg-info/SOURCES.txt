@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/KAN_basics.egg-info/PKG-INFO
+src/KAN_basics.egg-info/SOURCES.txt
+src/KAN_basics.egg-info/dependency_links.txt
+src/KAN_basics.egg-info/top_level.txt
+src/models/KAN.py
+src/models/MLP.py
+src/models/__init__.py
