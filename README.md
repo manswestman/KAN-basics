@@ -38,7 +38,6 @@ KAN-basics/
 │
 ├── notebooks/                     # Core reproducible workflows
 │   ├── 1_data_generation.ipynb    # Synthetic data creation
-│   ├── 1_data_generation_OLD.ipynb (legacy)
 │   ├── 2_MLP_training.ipynb       # Baseline MLP training
 │   ├── 3_KAN_training.ipynb       # KAN training (main demo)
 │   └── 4_eval.ipynb               # Comparative evaluation & visualization
